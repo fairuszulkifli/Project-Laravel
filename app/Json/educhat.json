@@ -1,0 +1,8 @@
+{
+    { 
+        "keyword":"Greeting",
+        "respond": 1000,
+        "ceo" : "Mary",
+        "rating" : 3.6
+    },
+}
